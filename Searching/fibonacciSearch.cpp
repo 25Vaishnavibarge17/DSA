@@ -1,4 +1,4 @@
-// C++ program of th above approach
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -80,9 +80,8 @@ int main()
 if(ind>=0)
 	cout << "Found at index: " << ind;
 else
-	cout << x << " isn't present in the array";
+	cout << x << " not present in the array";
 
 	return 0;
 }
 
-// This code is contributed by code_hunt.
