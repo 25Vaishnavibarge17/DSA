@@ -1,4 +1,7 @@
 # DSA
+
 ◼ Arrays
+
 ◼ Sorting
+
 ◼ Searching
