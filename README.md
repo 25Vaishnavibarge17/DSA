@@ -10,7 +10,7 @@ Various Data Structures and Algorithms code included in this repo in C++ and som
   
       📌Insert Elements into array 
 
-      📌Delete elements from array
+      📌Search element from array
   
 ◼ Sorting
  
