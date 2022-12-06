@@ -17,8 +17,12 @@ Various Data Structures and Algorithms code included in this repo in C++ and som
       📌Buuble sort
   
       📌Insertion sort
+      
+      📌Selection sort
   
       📌Merge sort
+      
+      📌Quick sort
   
 ◼ Searching
 
