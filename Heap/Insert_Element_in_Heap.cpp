@@ -45,6 +45,7 @@ int main()
     cout<<"Enter total no of nodes: ";
     cin>>n;
     int x;
+    cout<<"Enter nodes: ";
     for(int i=0;i<n;i++)
     {
         cin>>x;
